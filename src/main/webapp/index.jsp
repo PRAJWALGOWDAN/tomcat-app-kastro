@@ -16,7 +16,7 @@
         <div class="nav-container">
             <div class="nav-brand">
                 <i class="fas fa-graduation-cap"></i>
-                <span>JDK Batch 07</span>
+                <span>JDKT Batch 07</span>
             </div>
             <div class="nav-menu">
                 <a href="#home" class="nav-link">Home</a>
